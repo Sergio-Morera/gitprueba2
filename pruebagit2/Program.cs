@@ -10,6 +10,8 @@ namespace pruebagit2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Sergio Morera");
+            Console.ReadLine();
         }
     }
 }
